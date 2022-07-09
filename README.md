@@ -1,13 +1,13 @@
 
-<h3>Sobre mim</h3>
+<h3 align="center">Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e desenvolvimento de sistemas no <a href="https://www.anhanguera.com/"> Anhanguera educacional </a>.
 - 💼 Trabalhando como Operador de monitoramento na <a href="https://www.rpwseguranca.com.br/monitoramento-24-horas/?gclid=EAIaIQobChMI68SUk46b9AIVQyCtBh3YKAGCEAAYAiAAEgITpvD_BwE"> RPW segurança eletrônica </a>
 - 🌱 Aprendendo mais sobre desenvolvimento Web.
 
-<h3>Minhas Skills: </h3>
-<div style="display: flex;">
+<h3 align="center">Minhas Skills: </h3>
+<div align="center" style="display: flex;">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="c"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="c"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="c"/>
@@ -23,6 +23,7 @@
 </div>
 
 <hr>
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joelson-Fernandes&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
@@ -33,6 +34,7 @@
 <a href="mailto:contato@joelsonfernandes.com.br?subject=Contato"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="c"/></a>
 <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="c"/></a>
 <a href="https://api.whatsapp.com/send?phone=947172465"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="c"/></a>
+</div>
 </div>
 
 
